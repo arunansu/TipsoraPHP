@@ -1,0 +1,39 @@
+@media (min-width: 0px) and (max-width: 769px){
+	header .navwrp{display: none;}
+	header .iconwrp{display: none;}
+	body{overflow-x: hidden;}
+	.home-banner{    height: 60vh;}
+	.home-banner .txtwrp h1{    font-size: 30px;}
+	.home-banner .txtwrp{    padding-top: 90px;}
+	.home-banner .txtwrp h4{font-size: 20px;}
+	.cta{overflow:hidden;}
+	.cta .cta-inner{display: block; padding: 100px 40px 80px;}
+	.servicesec h4{    font-size: 20px;}
+	.talent-sec .txtwrp h1{font-size: 30px;}
+	.talent-sec .txtwrp{    padding-top: 70px;}
+	.talent-sec{    height: unset;    padding-bottom: 200px;}
+	.servicesec .boxwrap li{    float: unset;width: 100%;}
+	.counter{padding: 110px 0 80px 0;}
+	.about-section .imgwrp-div{    margin-right: 0;    margin-left: 0;}
+	.servicesec{overflow-x: hidden;}
+	.counter .counter-box h2{    font-size: 31px;}
+	.cta .cta-inner .txtwrp h2{font-size: 24px;}
+	.clintwrp .imgwrp ul li img {width: 90%; }
+	.servicesec .boxwrap{    margin-top: 25px;}
+	.clintwrp .imgwrp .portslider li img{width: 140px;}
+	.consult-banner{padding: 40px 0 60px;}
+	.consult-banner .main-box{width: 100%;}
+	.consult-banner .main-box{margin: 0 0 20px 0;}
+	.app-banner{padding: 220px 0;height: 60vh;}
+	.main-heading{font-size: 32px;}
+	.page-header-shape-1{display: none;}
+	.page-header-shape-2{display: none;}
+	.page-header-shape-3{display: none;}
+	.experience-sec .imgwrp{display: none;}
+	.recruit-banner{padding: 40px 0 60px;}
+	.recruit-banner .main-box{width: 100%;}
+	.contact-sec{background-color: #000;}
+	.contact-sec .contact-box{width: 100%;}
+	.frmwrp .frmdiv form .frm-fields input{width: 90%;padding: 20px 0px 20px 20px;}
+	.frmwrp .frmdiv form .frm-fields textarea{width: 90%;padding: 10px 0 120px 10px;}
+}
